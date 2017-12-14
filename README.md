@@ -8,3 +8,5 @@ I play around with tFrecords so that there will be no limitaiton wrt image file 
 This can ge the posiiton of the suspicious lung nodules in one image and store the coordinate in txt for others to use.
 
 This recall is 83%, precision is 38% on test dataset.
+## unet_10_fold_nodule_segmentation.ipnb is for lung nodule detection and segmentation
+This use 10 fold cross validation and it's able to get recall and precision automatically.
